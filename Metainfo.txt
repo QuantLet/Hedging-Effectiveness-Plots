@@ -8,4 +8,4 @@ Keywords: 'Optimal hedge ratio, risk measures, BTC future, BTC, futures contract
 
 Author: 'Francis Liu'
 
-Submitted:   '8 November 2021'
+Submitted:   '14 Dec 2021'
