@@ -23,7 +23,7 @@ To generate the results files, one needs to run the following python scripts wit
 2. src/get_OHR.py: numeraically search for the optimal hedge ratios according the exponential risk measure, expected shortfall, value-at-risk with parameters stated in the configuration file,
 3. src/get_HEs.py: generate results from testing data and calculate hedging effectiveness. 
 
-The python scripts should be run in the exact order above to generate correct results.
+The python scripts should be run in the exact order above to generate correct results. The procedure can generate results of all the copulae except the NIG factor copula. Codes in Mathematica for NIG factor copula is avaliable upon request. 
 
 One can generate results with other datasets, following are the steps to do so
 prepare the data according to the format and file structure in processed_data
