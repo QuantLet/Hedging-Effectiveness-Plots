@@ -19,9 +19,9 @@ Submitted:   '6 Jan 2022'
 
 ## Generate Results Files
 To generate the results files, one needs to run the following python scripts with the same configuration file as input
-src/calibration.py
-src/get_OHR.py
-src/get_HEs.py.
+- src/calibration.py
+- src/get_OHR.py
+- src/get_HEs.py.
 The python scripts should be run in the exact order above to generate correct results.
 
 One can generate results with other datasets, following are the steps to do so
