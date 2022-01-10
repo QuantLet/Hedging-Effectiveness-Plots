@@ -4,11 +4,11 @@
 
 ```yaml
 
-Name of Quantlet: 'Data and Codes of Hedging Cryptos with Bitcoins Futures'
+Name of Quantlet: 'Data and Codes of the Paper Hedging Cryptos with Bitcoins Futures'
 
 Published in: 'Hedging Cryptos With Bitcoin Futures'
 
-Description: 'This repository archives the data and codes to produce the results of paper Hedging Cryptos with Bitcoin Futures.'
+Description: 'This repository archives the data and codes that produce the results of paper Hedging Cryptos with Bitcoin Futures.'
 
 Keywords: 'Optimal hedge ratio, risk measures, BTC future, BTC, futures contract'
 
@@ -44,5 +44,5 @@ Configuration file is a json file with fields describe as follows
 - q_arr_VaR: quantile level of value-at-risk being used as loss function
 - h_Clip: range of optimal hedge ratio
 
-## Generate Plots in Papers
+## Generate Plots in the Paper
 The figures and tables in the paper are generated from the Jupyter Notebook files in Pynotebooks/figures and Pynotebooks/tables respectively.
